@@ -1,0 +1,301 @@
+organization,id,group,source,location,continent,industry,year,records,date
+CyberVor,1,Account Access,Malicious Outsider,Global,Global,Technology,2014,1200000000,8/5/2014
+eBay,2,Identity Theft,Malicious Outsider,United States,North America,Retail,2014,145000000,5/21/2014
+Home Depot,3,Financial Access,Malicious Outsider,United States,North America,Retail,2014,109000000,9/2/2014
+JPMorgan Chase,4,Identity Theft,Malicious Outsider,United States,North America,Financial,2014,83000000,8/27/2014
+"Korea Credit Bureau, NH Nonghyup Card, Lotte Card, KB Kookmin Card",5,Identity Theft,Malicious Insider,South Korea,Asia,Financial,2014,104000000,1/20/2014
+Yahoo,6,Account Access,State Sponsored,United States,North America,Technology,2014,500000000,12/1/2014
+"Bank of America, JP Morgan Chase, HSBC, TD Bank and Wachovia",7,Account Access,Malicious Outsider,United States,North America,Financial,2014,83000000,7/30/2014
+Benesse,8,Identity Theft,Malicious Insider,Japan,Asia,Education,2014,48600000,7/15/2014
+"Websites for online games, movie ticketing and ring tone downloads",9,Identity Theft,Malicious Outsider,South Korea,Asia,Technology,2014,27000000,8/21/2014
+AliExpress,10,Account Access,Accidental Loss,China,Asia,Retail,2014,300000000,12/8/2014
+Homeplus Co./Tesco PLC,11,Identity Theft,Malicious Insider,South Korea,Asia,Retail,2014,24000000,7/7/2014
+"Korean Medical Association, Association of Korean Medicine and Korean Dental Association",12,Identity Theft,Malicious Outsider,South Korea,Asia,Healthcare,2014,17000000,2/17/2014
+Korea Telecom,13,Identity Theft,Malicious Outsider,South Korea,Asia,Technology,2014,12000000,2/15/2014
+Naver,14,Account Access,Malicious Outsider,South Korea,Asia,Technology,2014,25000000,3/28/2014
+Northwestern city of Verden,15,Financial Access,Malicious Outsider,Germany,Europe,Government,2014,18000000,4/3/2014
+"Premera, LifeWise",16,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2014,11250000,5/4/2014
+Internet country Germany,17,Account Access,Malicious Outsider,Germany,Europe,Government,2014,16000000,1/3/2014
+Pandora TV,18,Identity Theft,Malicious Outsider,South Korea,Asia,Other,2014,7450000,9/9/2014
+Serbian State,19,Identity Theft,Malicious Outsider,Serbia,Europe,Government,2014,7276604,12/13/2014
+Community Health Systems Inc,20,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2014,4500000,6/8/2014
+United States Postal Service,21,Identity Theft,State Sponsored,United States,North America,Government,2014,3650000,11/10/2014
+Bulgaria Citizens,22,Identity Theft,Malicious Outsider,Bulgaria,Europe,Other,2014,2832312,4/15/2014
+"Educational Credit Management Corp, St. Paul",23,Identity Theft,Malicious Outsider,United States,North America,Financial,2014,3300000,3/21/2014
+Hannaford Bros,24,Financial Access,Malicious Outsider,United States,North America,Retail,2014,4200000,2/27/2014
+ReverbNation,25,Identity Theft,Malicious Outsider,United States,North America,Other,2014,3000000,5/1/2014
+FC Barcelona's official Twitter account,26,Nuisance,Malicious Outsider,Spain,Europe,Other,2014,11119878,2/19/2014
+GE Healthcare,27,Existential Data,Malicious Insider,United States,North America,Healthcare,2014,2400000,6/3/2014
+Gmail,28,Account Access,Malicious Outsider,Global,Global,Technology,2014,5000000,9/10/2014
+"Michael's Stores, Aaron Brothers",29,Financial Access,Malicious Outsider,United States,North America,Retail,2014,3000000,1/27/2014
+AOL,30,Identity Theft,Malicious Outsider,United States,North America,Technology,2014,2000000,4/28/2014
+HSBC Bank,31,Financial Access,Malicious Outsider,Turkey,Europe,Financial,2014,2700000,11/12/2014
+Viator (TripAdvisor),32,Identity Theft,Malicious Outsider,United Kingdom,Europe,Other,2014,1400000,9/5/2014
+French telecoms group Orange,33,Identity Theft,Malicious Outsider,France,Europe,Other,2014,1300000,4/15/2014
+iCloud Apple,34,Account Access,State Sponsored,United States,North America,Technology,2014,2000000,10/21/2014
+Montana Department of Public Health and Human Services,35,Identity Theft,Malicious Outsider,United States,North America,Government,2014,1300000,5/22/2014
+Mumsnet Limited,36,Financial Access,Malicious Outsider,United Kingdom,Europe,Other,2014,1500000,4/9/2014
+Oregon Employment Department,37,Identity Theft,Malicious Outsider,United States,North America,Government,2014,1300000,10/10/2014
+Scottrade,38,Nuisance,Malicious Outsider,United States,North America,Retail,2014,4600000,1/2/2014
+Snapchat,39,Account Access,Malicious Outsider,United States,North America,Technology,2014,4600000,1/4/2014
+Telia,40,Nuisance,Malicious Outsider,Sweden,Europe,Technology,2014,5000000,12/8/2014
+"Visa, Mastercard, American Express, and Discover cards",41,Financial Access,Hacktivist,Ukraine,Europe,Financial,2014,7000000,3/25/2014
+Affin Bank Berhad and Affin Islamic Bank Berhad,42,Financial Access,Malicious Outsider,United Kingdom,Europe,Financial,2014,1271000,9/27/2014
+Salesforce,43,Account Access,Malicious Outsider,United States,North America,Technology,2014,2000000,9/3/2014
+Skype Twitter,44,Nuisance,State Sponsored,United States,North America,Technology,2014,3000000,1/1/2014
+Japan Airlines,45,Identity Theft,Malicious Outsider,Japan,Asia,Government,2014,750000,9/25/2014
+Netherlands Primary School,46,Identity Theft,Malicious Insider,Netherlands,Europe,Education,2014,1000000,4/6/2014
+Staples,47,Financial Access,Malicious Outsider,United States,North America,Retail,2014,1160000,10/21/2014
+Think W3 Limited,48,Financial Access,Malicious Outsider,United Kingdom,Europe,Other,2014,1163996,8/7/2014
+Paddy Power,49,Identity Theft,Malicious Outsider,United Kingdom,Europe,Other,2014,649000,5/8/2014
+Domino's Pizza,50,Identity Theft,Malicious Outsider,France,Europe,Retail,2014,650000,6/13/2014
+Goodwill Industries International (C&K Systems),51,Financial Access,Malicious Outsider,United States,North America,Retail,2014,868000,8/14/2014
+Paddy Power,52,Identity Theft,Malicious Outsider,United Kingdom,Europe,Other,2014,649000,7/31/2014
+CNET,53,Account Access,Malicious Outsider,United States,North America,Other,2014,1000000,7/10/2014
+Forbes,54,Account Access,Malicious Outsider,United States,North America,Other,2014,1071963,2/13/2014
+Harley Medical Group,55,Identity Theft,Malicious Outsider,United Kingdom,Europe,Healthcare,2014,500000,4/14/2014
+Office Holding,56,Account Access,Malicious Outsider,United Kingdom,Europe,Retail,2014,1000000,5/27/2014
+Spec's,57,Identity Theft,Malicious Outsider,United States,North America,Retail,2014,500000,3/29/2014
+Aussie Travel Cover,58,Identity Theft,Malicious Outsider,Australia,Australia,Financial,2014,870000,12/16/2014
+eCar insurance (Brightside Group),59,Identity Theft,Malicious Outsider,United Kingdom,Europe,Financial,2014,400000,9/29/2014
+"Orange, French multinational telecommunication",60,Account Access,Malicious Outsider,France,Europe,Retail,2014,800000,1/16/2014
+Parking Garages in Chicago,61,Financial Access,Malicious Outsider,United States,North America,Other,2014,500000,11/29/2014
+St. Joseph Health System,62,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2014,405000,2/4/2014
+Warframe,63,Account Access,Malicious Outsider,United States,North America,Technology,2014,775000,11/15/2014
+North Dakota University,64,Identity Theft,Malicious Outsider,United States,North America,Education,2014,290780,2/7/2014
+University of Maryland,65,Identity Theft,Malicious Outsider,United States,North America,Education,2014,287580,2/19/2014
+"Yandex, Mail.Ru",66,Account Access,Malicious Outsider,Russia,Europe,Technology,2014,1200000,9/4/2014
+Affinity Gaming,67,Financial Access,Malicious Outsider,United States,North America,Other,2014,300000,4/28/2014
+Fandango and Credit Karma,68,Identity Theft,Accidental Loss,United States,North America,Technology,2014,2000000,3/28/2014
+Metro International website,69,Nuisance,Malicious Outsider,United States,North America,Government,2014,1000000,7/22/2014
+"NongHyup Life Insurance Co,NongHyup Financial Group Inc",70,Identity Theft,Malicious Insider,South Korea,Asia,Financial,2014,350000,1/5/2014
+Paytime Inc,71,Identity Theft,Malicious Outsider,United States,North America,Financial,2014,233000,4/30/2014
+AVAST Software,72,Account Access,Malicious Outsider,United States,North America,Technology,2014,400000,5/26/2014
+Butler University,73,Identity Theft,Malicious Outsider,United States,North America,Education,2014,200000,5/29/2014
+Manga Traders,74,Account Access,Malicious Outsider,Unknown,North America,Technology,2014,855000,6/8/2014
+"National Geospatial-Intelligence Agency and the U.S. Navy to sites for Harvard University, the World Health Organization, and Kawasaki",75,Identity Theft,Malicious Outsider,United States,North America,Government,2014,220000,5/14/2014
+Sally Beauty Supply LLC,76,Financial Access,Malicious Outsider,United States,North America,Retail,2014,282000,2/15/2014
+"Sutherland Healthcare Solutions, Department of Health Services and Department of Public Health,city of hope",77,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2014,220000,2/5/2014
+Vittel,78,Identity Theft,Malicious Outsider,Vietnam,Asia,Retail,2014,197000,4/8/2014
+"Bakerzin, K Box Entertainment Group",79,Identity Theft,Malicious Outsider,United States,North America,Other,2014,317000,9/15/2014
+Cannabis,80,Existential Data,Malicious Outsider,United States,North America,Other,2014,227000,2/7/2014
+"CareerSource South Florida, Department of Economic Opportunity, Florida Department of Children and Families",81,Identity Theft,Malicious Insider,United States,North America,Other,2014,200000,5/8/2014
+Eircom,82,Account Access,Malicious Outsider,Ireland,Europe,Technology,2014,350000,4/30/2014
+IRS,83,Identity Theft,Accidental Loss,United States,North America,Government,2014,1400000,7/7/2014
+Leumi Card,84,Identity Theft,Malicious Insider,Israel,Asia,Financial,2014,2000000,11/1/2014
+StatusHunter,85,Nuisance,State Sponsored,Israel,Asia,Technology,2014,550382,7/12/2014
+Texas Health and Human Services,86,Identity Theft,Malicious Insider,United States,North America,Healthcare,2014,2000000,7/31/2014
+Walgreen,87,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2014,160000,11/6/2014
+Blue Cross Blue Shield in Maryland,88,Identity Theft,Accidental Loss,United States,North America,Healthcare,2014,1100000,6/2/2014
+Boleto,89,Account Access,Malicious Outsider,Brazil,South America,Financial,2014,275730,7/4/2014
+Economic Affairs and the Interior Ministry,90,Identity Theft,Accidental Loss,Denmark,Europe,Government,2014,900000,7/2/2014
+IDFSpokesperson,91,Nuisance,State Sponsored,Israel,Asia,Government,2014,375000,7/3/2014
+Israeli websites,92,Nuisance,Hacktivist,Israel,Asia,Other,2014,1000000,7/8/2014
+Xiaomi Mi Account,93,Account Access,Accidental Loss,China,Asia,Technology,2014,2000000,10/29/2014
+Archdiocese of Seattle,94,Identity Theft,Malicious Outsider,United States,North America,Other,2014,90000,3/13/2014
+Boxee.tv,95,Existential Data,Malicious Outsider,United States,North America,Other,2014,172000,3/23/2014
+Sheriff's Office in Dickson County,96,Existential Data,Malicious Outsider,United States,North America,Government,2014,72000,11/14/2014
+Snapchat,97,Identity Theft,Malicious Outsider,United States,North America,Technology,2014,200000,10/10/2014
+Amerigroup,98,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2014,74082,1/30/2014
+Ariba,99,Existential Data,Malicious Outsider,United States,North America,Technology,2014,70000,4/2/2014
+Coca-Cola,100,Identity Theft,Malicious Outsider,United States,North America,Retail,2014,"74,000",1/24/2014
+Anthem Insurance Companies (Anthem Blue Cross),101,Identity Theft,State Sponsored,United States,North America,Healthcare,2015,78800000,1/27/2015
+"General Directorate of Population and Citizenship Affairs, the General Directorate of Land Registry and Cadaster",102,Identity Theft,Malicious Outsider,Turkey,Europe,Government,2015,50000000,1/12/2015
+AshleyMadison.com,103,Identity Theft,Malicious Outsider,Canada,North America,Other,2015,37000000,7/20/2015
+Korea Pharmaceutical Information Center/ SK Telecom,104,Identity Theft,Malicious Insider,Korea,Asia,Healthcare,2015,43000000,7/26/2015
+"U.S Department of the Interior, U.S. Office of Personnel Management",105,Identity Theft,State Sponsored,United States,North America,Government,2015,22000000,4/1/2015
+United State Voters,106,Identity Theft,Accidental Loss,United States,North America,Government,2015,191337174,12/28/2015
+Wattpad,107,Account Access,Malicious Outsider,United States,North America,Other,2015,40000000,5/29/2015
+T - Mobile/ Experian,108,Identity Theft,Malicious Outsider,United States,North America,Other,2015,15000000,9/3/2015
+Topface,109,Account Access,Malicious Outsider,Russia,Europe,Technology,2015,20000000,1/20/2015
+Bharat Sanchar Nigam Limited (BSNL) Telecommunications Journal,110,Account Access,Hacktivist,India,Asia,Government,2015,30000000,7/4/2015
+Nicchu Shinsei Corp,111,Account Access,Malicious Insider,Japan,Asia,Technology,2015,18000000,11/6/2015
+VTech Holdings,112,Identity Theft,Malicious Outsider,Global,Global,Retail,2015,11686131,11/14/2015
+"Gaana.com, Times Internet",113,Identity Theft,Malicious Outsider,Pakistan,Asia,Retail,2015,10000000,5/28/2015
+TalkTalk,114,Identity Theft,State Sponsored,United Kingdom,Europe,Retail,2015,4000000,10/22/2015
+UCLA Health System,115,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2015,4500000,7/17/2015
+Medical Informatics Engineering/ NoMoreClipboard/South Bend Medical Foundation/Louisville metro/Margaret Mary Community Hospital,116,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2015,3900000,5/7/2015
+Rakuten and LINE Corp,117,Account Access,Malicious Outsider,Japan,Asia,Retail,2015,7850000,4/17/2015
+Russian website for anonymous reviews,118,Existential Data,Malicious Outsider,Russia,Europe,Technology,2015,6700000,4/8/2015
+000webhost/troyhunt.com,119,Account Access,Malicious Outsider,Global,Global,Technology,2015,13500000,3/30/2015
+Nexus Mods,120,Account Access,Malicious Outsider,United Kingdom,Europe,Technology,2015,6000000,12/8/2015
+Adult FriendFinder,121,Existential Data,Malicious Outsider,United States,North America,Other,2015,3867997,5/21/2015
+Vivanuncios ( Vivastreet),122,Existential Data,Malicious Outsider,United Kingdom,Europe,Technology,2015,2000000,1/15/2015
+21st Century Oncology,123,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2015,2200000,10/3/2015
+"AdExpansion/DrTuber, Nuvid, Eroprofile, IcePorn and Xbabe, xHamster, RedTube, PornHub",124,Identity Theft,Malicious Outsider,Global,Global,Other,2015,2000000,11/3/2015
+Carphone Warehouse,125,Financial Access,Malicious Outsider,United Kingdom,Europe,Retail,2015,2400000,8/8/2015
+Register.com,126,Existential Data,State Sponsored,United States,North America,Technology,2015,1400000,3/18/2015
+MPGH/ Multiplayer Game Hacking,127,Account Access,Malicious Outsider,United States,North America,Other,2015,3122898,10/15/2015
+Patreon,128,Existential Data,Malicious Outsider,United States,North America,Other,2015,2300000,9/30/2015
+Saudi Arabia Government,129,Existential Data,State Sponsored,Saudi Arabia,Asia,Government,2015,1000000,5/22/2015
+The Urban Institute's National Center for Charitable Statistics (NCCS),130,Existential Data,Malicious Outsider,United States,North America,Government,2015,1100000,2/23/2015
+Ministry of Education (MEBB_S),131,Nuisance,Accidental Loss,Turkey,Europe,Education,2015,15000000,1/18/2015
+Skunkwerks Software,132,Existential Data,Malicious Insider,United States,North America,Technology,2015,1000000,2/23/2015
+TV Channel MyTF1,133,Account Access,Malicious Outsider,France,Europe,Other,2015,1900000,1/2/2015
+Asahi Shimbun,134,Existential Data,Malicious Outsider,Japan,Asia,Other,2015,1250000,1/9/2015
+Chinese airline,135,Account Access,Malicious Outsider,China,Asia,Other,2015,1600000,8/20/2015
+Georgia Secretary of State,136,Identity Theft,Accidental Loss,United States,North America,Government,2015,6200000,10/9/2015
+IRS,137,Identity Theft,State Sponsored,United States,North America,Government,2015,700000,5/26/2015
+iTunes (Apple),138,Identity Theft,Accidental Loss,Germany,Europe,Technology,2015,6000000,1/29/2015
+Kromtech,139,Account Access,Accidental Loss,United States,North America,Technology,2015,13000000,12/14/2015
+Georgia Department of Community Health,140,Identity Theft,Malicious Outsider,United States,North America,Government,2015,557779,3/2/2015
+Hanesbrands,141,Financial Access,Malicious Outsider,United States,North America,Retail,2015,900000,6/9/2015
+Japan's pension system,142,Identity Theft,Malicious Outsider,Japan,Asia,Government,2015,1250000,6/1/2015
+Minecraft (Microsoft ),143,Account Access,Malicious Outsider,United States,North America,Technology,2015,2800000,1/23/2015
+Statens Serum Insitut (SSI)/Denmark Citizens,144,Identity Theft,Accidental Loss,Denmark,Europe,Healthcare,2015,5282616,2/18/2015
+vBulletin,145,Existential Data,Malicious Outsider,United States,North America,Technology,2015,480000,11/4/2015
+Virginia Department of Medical Assistance,146,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2015,697586,3/12/2015
+Wetherspoon,147,Identity Theft,Malicious Outsider,United Kingdom,Europe,Retail,2015,656723,12/4/2015
+Cyberoam,148,Account Access,Malicious Outsider,India,Asia,Technology,2015,1000000,12/31/2015
+Hanes Website,149,Account Access,Malicious Outsider,United States,North America,Retail,2015,900000,7/30/2015
+Moonpig Limited,150,Identity Theft,Accidental Loss,United Kingdom,Europe,Technology,2015,3600000,1/5/2015
+Sakai,151,Identity Theft,Malicious Insider,Japan,Asia,Government,2015,680000,12/15/2015
+TRAI (Telecom Regulatory Authority of India),152,Account Access,Malicious Outsider,India,Asia,Other,2015,2000000,4/24/2015
+Final Fantasy Shrine,153,Existential Data,Malicious Outsider,United States,North America,Other,2015,620667,9/15/2015
+Hello Kitty/Sanriotown,154,Identity Theft,Accidental Loss,United States,North America,Other,2015,3300000,12/19/2015
+The Alzheimer's Society,155,Identity Theft,Malicious Outsider,United Kingdom,Europe,Healthcare,2015,366000,5/5/2015
+The B.C. government and Yukon,156,Identity Theft,Accidental Loss,British Columbia,North America,Education,2015,3400000,9/22/2015
+Comcast,157,Account Access,Malicious Outsider,United States,North America,Other,2015,590000,11/9/2015
+IRS Florida,158,Identity Theft,Malicious Outsider,United States,North America,Government,2015,300000,11/9/2015
+OkHello,159,Identity Theft,Accidental Loss,United States,North America,Technology,2015,2627082,12/4/2015
+Roadrunner Wireless Internet Service,160,Existential Data,Malicious Insider,United States,North America,Technology,2015,320000,12/1/2015
+Foxit Software,161,Account Access,Malicious Outsider,United States,North America,Technology,2015,537000,11/2/2015
+Missing Links Networks/ eCellar,162,Identity Theft,Malicious Outsider,United States,North America,Technology,2015,250000,4/30/2015
+Slack,163,Account Access,Malicious Outsider,United States,North America,Technology,2015,500000,2/8/2015
+Alliance Health,164,Identity Theft,Accidental Loss,United States,North America,Healthcare,2015,1585289,12/17/2015
+AT&T,165,Identity Theft,Malicious Insider,Mexico,North America,Retail,2015,280000,4/4/2015
+"Department of Labor, Florida Department of Economic Opportunity",166,Identity Theft,Malicious Outsider,United States,North America,Government,2015,200000,3/9/2015
+mSpy,167,Identity Theft,Malicious Outsider,United States,North America,Technology,2015,400000,5/11/2015
+Seki Co,168,Financial Access,Malicious Outsider,Japan,Asia,Other,2015,267000,12/3/2015
+Systema Software/Golden State Risk Management Authority (Kansas State Self Insurance Fund/CSAC-EIA and York Insurance Services Group/Salt Lake County),169,Identity Theft,Accidental Loss,United States,North America,Insurance,2015,1500000,8/30/2015
+VK Music,170,Account Access,Malicious Insider,Russia,Europe,Other,2015,500000,10/4/2015
+Advantage Dental,171,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2015,151626,2/26/2015
+Career Education Corporation,172,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2015,151626,3/19/2015
+Metropolitan State University,173,Identity Theft,Malicious Outsider,United States,North America,Education,2015,160000,1/2/2015
+Saudi Embassy in Tehran,174,Existential Data,Hacktivist,Iran,Asia,Government,2015,500000,6/22/2015
+Slingo,175,Account Access,Accidental Loss,United States,North America,Other,2015,2500000,12/14/2015
+TalkTalk,176,Identity Theft,Malicious Outsider,United Kingdom,Europe,Other,2015,156959,2/27/2015
+UniCredit.au/RBC.au/RosBusinessConsulting,177,Identity Theft,Malicious Outsider,Italy,Europe,Financial,2015,151000,7/16/2015
+Apple/ Iphone,178,Account Access,Malicious Outsider,United States,North America,Retail,2015,225000,9/1/2015
+Army and Air Force Exchange/Siga Telecom,179,Existential Data,Malicious Outsider,Germany,Europe,Government,2015,98000,2/11/2015
+BeautifulPeople.com,180,Identity Theft,Accidental Loss,United States,North America,Other,2015,1100000,12/24/2015
+Morgan Stanley,181,Identity Theft,Malicious Insider,United States,North America,Financial,2015,350000,1/5/2015
+Chateraise Co,182,Identity Theft,Malicious Outsider,Japan,Asia,Other,2015,210000,12/6/2015
+Dating Websites,183,Account Access,Malicious Outsider,Russia,Europe,Other,2015,200000,8/31/2015
+Sexy Girls,184,Identity Theft,Malicious Outsider,United States,North America,Other,2015,100000,1/29/2015
+SterlingBackcheck,185,Identity Theft,Malicious Outsider,United States,North America,Other,2015,100000,5/29/2015
+Tamiya,186,Identity Theft,Malicious Outsider,Japan,Asia,Other,2015,107000,12/8/2015
+U.S. Army National Guard,187,Identity Theft,Accidental Loss,United Kingdom,Europe,Government,2015,850000,7/11/2015
+Calirfona State University/ Agent of Change,188,Identity Theft,Malicious Outsider,United States,North America,Education,2015,79000,8/24/2015
+CICS Employment Services Inc,189,Identity Theft,Malicious Outsider,United States,North America,Other,2015,88000,2/3/2015
+City of Philadelphia Fire Department,190,Identity Theft,Malicious Outsider,United States,North America,Government,2015,81463,4/2/2015
+Eye Associates of Pinellas,191,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2015,87314,1/5/2015
+"French Lick Resort, Blue Sky Casino",192,Identity Theft,Malicious Outsider,United States,North America,Other,2015,87975,1/21/2015
+Ifit/ NordicTrack/ ICON Health & Fitness,193,Identity Theft,Accidental Loss,United States,North America,Technology,2015,576274,12/14/2015
+MAPP.NL,194,Account Access,Malicious Outsider,Netherlands,Europe,Retail,2015,157000,4/17/2015
+Morrisons,195,Identity Theft,Malicious Insider,United Kingdom,Europe,Retail,2015,100000,6/7/2015
+Nonprofit Organizations,196,Identity Theft,Accidental Loss,United States,North America,Other,2015,630000,7/17/2015
+OH Muhlenberg/Muhlenberg Community Hospital,197,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2015,84684,11/13/2015
+PHP Freaks Forum,198,Account Access,Malicious Outsider,United States,North America,Other,2015,173891,10/30/2015
+Sharjah bank,199,Existential Data,Malicious Outsider,Dubai,Asia,Financial,2015,64000,11/25/2015
+StarNet,200,Existential Data,Malicious Outsider,Moldova,Europe,Technology,2015,140000,2/8/2015
+Adult FriendFinder/Friend Finder Network/Cams/Penthouse/Stripshow/iCams,201,Account Access,Malicious Outsider,United States,North America,Other,2016,412214295,10/16/2016
+Fling,202,Identity Theft,Malicious Outsider,United Kingdom,Europe,Other,2016,40000000,5/6/2016
+Philippines' Commission on Elections (COMELEC),203,Identity Theft,Malicious Outsider,Philippines,Asia,Government,2016,77736795,3/28/2016
+17 Media,204,Identity Theft,Malicious Outsider,Taiwan,Asia,Technology,2016,30000000,4/29/2016
+DailyMotion,205,Account Access,Malicious Outsider,France,Europe,Technology,2016,85000000,10/20/2016
+Evony Gaming Company,206,Account Access,Malicious Outsider,United States,North America,Technology,2016,33407472,6/15/2016
+Kerala,207,Identity Theft,Malicious Outsider,India,Asia,Government,2016,34000000,11/16/2016
+Mate1,208,Account Access,Malicious Outsider,United States,North America,Other,2016,27000000,2/16/2016
+Mexican Voters,209,Identity Theft,Accidental Loss,Mexico,North America,Government,2016,93400000,4/14/2016
+Verticalscope/Techsupportforum.com MobileCampsites.com Pbnation.com and Motorcycle,210,Account Access,Malicious Outsider,Canada,North America,Technology,2016,45000000,2/9/2016
+U.S. health insurer,211,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2016,9300000,6/27/2016
+Weebly,212,Account Access,Malicious Outsider,United States,North America,Technology,2016,43430316,2/1/2016
+Modern Business Solutions,213,Nuisance,Malicious Outsider,United States,North America,Technology,2016,58000000,10/10/2016
+Mail.ru / Cross Fire / ParaPa Dance City / Ground War Tank game,214,Account Access,Malicious Outsider,Russia,Europe,Technology,2016,25133805,8/24/2016
+"U.S. Department of Health and Human Services Office of Child Support Enforcement, the National Federation of Independent Business, the Federal Highway Administration and Lightspeed Retail.",215,Identity Theft,Malicious Outsider,United States,North America,Government,2016,5000000,2/5/2016
+U.S. Voter/Amazon/Google,216,Nuisance,Accidental Loss,United States,North America,Government,2016,154000000,6/22/2016
+Banner Health,217,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2016,3700000,6/17/2016
+JTB Corp,218,Identity Theft,Malicious Outsider,Japan,Asia,Hospitality,2016,7930000,4/13/2016
+Mossack Fonseca,219,Identity Theft,Malicious Insider,Panama,North America,Financial,2016,11500000,3/31/2016
+ClixSense,220,Account Access,Malicious Outsider,United States,North America,Technology,2016,6600000,9/4/2016
+Heritage Auctions and Christies,221,Existential Data,Malicious Outsider,United Kingdom,Europe,Retail,2016,2700000,11/19/2016
+Leet.cc Servers / Minecraft,222,Account Access,Malicious Outsider,United States,North America,Technology,2016,6084276,2/5/2016
+Newkirk Products/Symphonix Health Insurance,223,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2016,3466120,7/6/2016
+Three,224,Nuisance,Malicious Outsider,United Kingdom,Europe,Retail,2016,9000000,11/18/2016
+Turkish State Hospitals,225,Identity Theft,Hacktivist,Turkey,Europe,Healthcare,2016,10000000,5/18/2016
+Washington Department of Fish and Wildlife,226,Identity Theft,Malicious Outsider,United States,North America,Government,2016,2435452,8/22/2016
+Kentucky Department of Fish and Wildlife,227,Identity Theft,Malicious Outsider,United States,North America,Government,2016,2126449,8/22/2016
+Lifeboat/Minecraft,228,Account Access,Malicious Outsider,United States,North America,Technology,2016,7089395,1/3/2016
+Naughty America,229,Account Access,Malicious Outsider,United States,North America,Other,2016,3800000,3/8/2016
+Photobucket,230,Identity Theft,Malicious Outsider,United States,North America,Other,2016,1900000,11/2/2016
+E-Sports Entertainment Association,231,Identity Theft,Malicious Outsider,United States,North America,Technology,2016,1503707,12/30/2016
+Interpark Corp,232,Nuisance,State Sponsored,South Korea,Asia,Retail,2016,10300000,5/5/2016
+Aerticket,233,Financial Access,Malicious Outsider,Germany,Europe,Hospitality,2016,1500000,8/1/2016
+Capgemini,234,Identity Theft,Accidental Loss,France,Europe,Technology,2016,10000000,11/10/2016
+i-Dressup,235,Account Access,Malicious Outsider,United States,North America,Other,2016,5500000,9/26/2016
+Kentucky Fried Chicken KFC,236,Identity Theft,Malicious Outsider,United States,North America,Retail,2016,1200000,12/12/2016
+Oregon Department of Fish and Wildlife,237,Identity Theft,Malicious Outsider,United States,North America,Government,2016,1195204,8/22/2016
+T Mobile's Czech Subsidiary,238,Identity Theft,Malicious Insider,Czech Republic,Europe,Retail,2016,1500000,6/13/2016
+Dota2,239,Account Access,Malicious Outsider,United States,North America,Technology,2016,1923972,7/10/2016
+Indian Institute of Management - Ahmedabad (IIM-A),240,Identity Theft,Malicious Outsider,India,Asia,Education,2016,2000000,1/8/2016
+Ubuntu Forums,241,Account Access,Malicious Outsider,United States,North America,Other,2016,2000000,7/14/2016
+Carbonite,242,Account Access,Malicious Outsider,United States,North America,Technology,2016,1500000,6/21/2016
+Clash of Kings,243,Account Access,Malicious Outsider,United States,North America,Technology,2016,1597717,7/14/2016
+Idaho Department of Fish and Game,244,Identity Theft,Malicious Outsider,United States,North America,Government,2016,788064,8/22/2016
+KM.RU,245,Identity Theft,Malicious Outsider,Russia,Europe,Technology,2016,1500000,2/16/2016
+Los Angeles County,246,Identity Theft,Malicious Outsider,United States,North America,Government,2016,756000,5/17/2016
+Mac Forums/ HotScripts / Hosting Talk,247,Account Access,Malicious Outsider,United States,North America,Technology,2016,1442602,7/4/2016
+Nival,248,Identity Theft,Malicious Outsider,Russia,Europe,Technology,2016,1500000,2/16/2016
+Opera Sync,249,Account Access,Malicious Outsider,United States,North America,Technology,2016,1700000,8/27/2016
+Steam Game,250,Account Access,Malicious Outsider,United States,North America,Technology,2016,3300000,7/31/2016
+Valley Anesthesiology and Pain Consultants (VAPC),251,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2016,882590,3/30/2016
+Carpooling.com / BlaBlaCar,252,Financial Access,Malicious Outsider,Germany,Europe,Retail,2016,743000,4/11/2016
+DealerBuilt,253,Identity Theft,Accidental Loss,United States,North America,Technology,2016,5000000,11/8/2016
+"Medical Records from three companies in Missouri, Georgia, & Midwest",254,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2016,655000,6/26/2016
+Oilpro Competitor,255,Identity Theft,Malicious Outsider,United States,North America,Other,2016,700000,2/3/2016
+Pakwheels,256,Identity Theft,Malicious Outsider,Pakistan,Asia,Retail,2016,674775,10/26/2016
+CiCi's Pizza,257,Financial Access,Malicious Outsider,United States,North America,Retail,2016,600000,6/4/2016
+Evony Gaming Company #2,258,Account Access,Malicious Outsider,United States,North America,Technology,2016,938000,8/15/2016
+GitHub/GeekedIn MongoDB,259,Account Access,Accidental Loss,United States,North America,Technology,2016,8000000,8/9/2016
+Google Android,260,Account Access,Malicious Outsider,United States,North America,Technology,2016,1000000,11/29/2016
+Lookbook.nu,261,Account Access,Malicious Outsider,United States,North America,Retail,2016,1100000,5/15/2016
+Office of Child Support Enforcement,262,Identity Theft,Malicious Outsider,United States,North America,Government,2016,5000000,2/9/2016
+Peachtree Orthopedic Clinic,263,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2016,543879,5/18/2016
+Shadi.com,264,Account Access,Malicious Outsider,United States,North America,Other,2016,2035020,7/10/2016
+State Bank of India,265,Financial Access,Malicious Outsider,India,Asia,Financial,2016,600000,10/18/2016
+Australian Health Department,266,Identity Theft,Accidental Loss,Australia,Australia,Government,2016,3000000,9/8/2016
+C & Z Investment Group - HaveanAffair,267,Account Access,Malicious Outsider,New Zealand,Australia,Other,2016,1500000,10/7/2016
+Community Health Plan of Washington,268,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2016,381534,11/7/2016
+Emory Brain Health Center/ MongoDB,269,Identity Theft,Malicious Outsider,United States,North America,Technology,2016,364313,12/30/2016
+Kroger/Equifax W-2 Express,270,Identity Theft,Malicious Outsider,United States,North America,Retail,2016,431000,5/4/2016
+Michigan Sate University,271,Identity Theft,Malicious Outsider,United States,North America,Education,2016,400000,11/13/2016
+Verizon Enterprise Solutions,272,Nuisance,Malicious Outsider,United States,North America,Technology,2016,1500000,3/16/2016
+Nulled,273,Identity Theft,Malicious Outsider,United States,North America,Technology,2016,599080,5/7/2016
+State of Louisiana,274,Identity Theft,Malicious Outsider,United States,North America,Government,2016,290000,6/12/2016
+BlueSnap/ Regpack,275,Financial Access,Malicious Outsider,United States,North America,Financial,2016,324000,7/10/2016
+Central Ohio Urology Group,276,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2016,521659,8/2/2016
+Good Samaritan Hospital,277,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2016,500000,4/15/2016
+Mexican Voter Database #2,278,Identity Theft,Accidental Loss,Mexico,North America,Government,2016,2072585,5/18/2016
+Qatar National Bank (QNB)/Al Jazeera Media Network,279,Identity Theft,Malicious Outsider,Qatar,Asia,Financial,2016,465437,4/26/2016
+World-Check/Thomson-Reuters,280,Identity Theft,Accidental Loss,United States,North America,Technology,2016,2200000,6/29/2016
+Baileys,281,Financial Access,Malicious Outsider,United States,North America,Retail,2016,250000,1/26/2016
+Illinois State Board of Elections,282,Identity Theft,Malicious Outsider,United States,North America,Government,2016,200000,7/12/2016
+Kiddicare,283,Account Access,Malicious Outsider,United Kingdom,Europe,Retail,2016,800000,5/10/2016
+MoDaCo,284,Account Access,Malicious Outsider,United Kingdom,Europe,Technology,2016,879703,1/15/2016
+Oklahoma City health database,285,Identity Theft,Malicious Outsider,United States,North America,Healthcare,2016,210000,7/1/2016
+Playdomforums.com,286,Account Access,Malicious Outsider,United States,North America,Technology,2016,391000,7/12/2016
+Saga Prefecture schools,287,Identity Theft,Malicious Outsider,Japan,Asia,Education,2016,210000,6/8/2016
+Unreal Engine/Epic Games,288,Account Access,Malicious Outsider,United States,North America,Technology,2016,808000,8/11/2016
+uTorrent,289,Account Access,Malicious Outsider,United States,North America,Technology,2016,388000,6/6/2016
+Nevada State,290,Identity Theft,Malicious Outsider,United States,North America,Government,2016,145000,10/19/2016
+Shiseido Co/IPSA Co,291,Financial Access,Malicious Outsider,Japan,Asia,Retail,2016,420000,12/3/2016
+Showpo,292,Financial Access,Malicious Insider,Australia,Australia,Retail,2016,306000,9/29/2016
+Time Warner Cable,293,Account Access,Malicious Outsider,United States,North America,Technology,2016,320000,1/8/2016
+BLU/ Wireless Update,294,Identity Theft,Malicious Outsider,United States,North America,Retail,2016,120000,11/1/2016
+Netia SA,295,Nuisance,Malicious Outsider,Europe,Europe,Technology,2016,957525,7/9/2016
+Nulled.io,296,Identity Theft,Hacktivist,Global,Global,Technology,2016,536064,4/6/2016
+Team Skeet/Paper Street Media (PSM),297,Account Access,Malicious Outsider,United States,North America,Other,2016,237000,3/31/2016
+Three,298,Identity Theft,Malicious Outsider,United Kingdom,Europe,Retail,2016,133827,11/20/2016
+U.S. Navy,299,Identity Theft,Malicious Outsider,United States,North America,Government,2016,134386,11/24/2016
+Vermont Fish & Wildlife Department,300,Identity Theft,Malicious Outsider,United States,North America,Government,2016,120000,1/8/2016
